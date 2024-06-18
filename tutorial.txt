@@ -1,0 +1,4 @@
+1. npm install
+2. masukkan API di inferenceService.js, nanti samakan bentuknya dengan api di handler.js
+3. masukkan fungsi API yang udah dibuat ke router,js. link nya /prediction)
+4. Kalau bingung tanya aja
